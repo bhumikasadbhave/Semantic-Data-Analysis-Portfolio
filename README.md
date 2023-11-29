@@ -12,6 +12,8 @@ Devadharshni Rajarajeswari (5123749)
 Priyanka Singh (9123118)
 
 
+
+
 **Contributions:**
 
 1. Presentation 1 (NLP Almost from scratch):
