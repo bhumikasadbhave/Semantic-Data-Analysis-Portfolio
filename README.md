@@ -14,9 +14,10 @@ Portfolio for Semantic Data Analysis and Representation subject (THWS MAI)
 **Contributions:**
 
 1. Presentation 1 (NLP Almost from scratch):
-     - Bhumika       33%
-     - Dibyanshu     33%
-     - Devadharshni  33%
+     - Bhumika       25%
+     - Dibyanshu     25%
+     - Devadharshni  25%
+     - Priyanka      25%
 
   
 2. Presentation 2 (DistilBERT):
