@@ -13,33 +13,33 @@ Portfolio for Semantic Data Analysis and Representation subject (THWS MAI)
 
 **Contributions:**
 
-1. Presentation 1 (NLP Almost from scratch):
+1. Group Project:
+     - Bhumika       25%
+     - Dibyanshu     25%
+     - Devadharshni  25%
+     - Priyanka      25%
+
+
+2. Presentation 1 (NLP Almost from scratch):
      - Bhumika       25%
      - Dibyanshu     25%
      - Devadharshni  25%
      - Priyanka      25%
 
   
-2. Presentation 2 (DistilBERT):
+3. Presentation 2 (DistilBERT):
      - Devadharshni   50%
      - Priyanka       50%
 
 
-3. Markov Chain Assignment
+4. Markov Chain Assignment
      - Bhumika      50%
      - Dibyanshu    50%
 
 
-4. Movie Classifier Assignment:
+5. Movie Classifier Assignment:
      - Bhumika      50%
      - Dibyanshu    50%
-
-  
-5. Group Project:
-     - Bhumika       25%
-     - Dibyanshu     25%
-     - Devadharshni  25%
-     - Priyanka      25%
 
   
 6. ChatGPT Exploitation
