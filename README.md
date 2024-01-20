@@ -18,8 +18,10 @@ Portfolio for Semantic Data Analysis and Representation subject (THWS MAI)
      - Bhumika      50%
 
 2. Movie Classifier Assignment:
-     - Dibyanshu    50%
-     - Bhumika      50%
+     - Dibyanshu     40%
+     - Bhumika       40%
+     - Priyanka      10%
+     - Devadharshni  10%
 
 3. Presentation 1 (NLP Almost from scratch):
      - Bhumika       25%
